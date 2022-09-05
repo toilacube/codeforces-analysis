@@ -1,1 +1,1 @@
-Trying to make an analys from codeforces profile
+Trying to make an analysis from codeforces profile
